@@ -8,4 +8,4 @@ Any question, feedback or suggestion you can either DM me or send me a mail thro
 
 Thanks for following me and hope you like my content!
 
-![Locations](imgs/ML_BASICS.PNG)
+![ML_Basics](https://github.com/rfeers/ML-Basics/assets/83583953/fee92384-c6dc-4937-ad95-a2db8ec1af62)
