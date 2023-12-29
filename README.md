@@ -8,4 +8,4 @@ Any question, feedback or suggestion you can either DM me or send me a mail thro
 
 Thanks for following me and hope you like my content!
 
-![Locations](imgs/ML BASICS.PNG)
+![Locations](imgs/ML_BASICS.PNG)
